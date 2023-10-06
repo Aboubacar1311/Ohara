@@ -3,9 +3,9 @@ This repository is part of a project to set up a system for extracting text from
 ## Setup 
 1. Install Streamlit  
    pip install streamlit
-2. Clone
+2. Clone  
    git clone https://github.com/Aboubacar1311/Ohara.git
-3. Change Directory
+3. Change Directory  
    cd Ohara
-4. Execute
+4. Execute  
    streamlit run app.py 'Or'  py -m streamlit run .\app.py 
