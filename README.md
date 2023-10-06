@@ -19,7 +19,7 @@ This repository is part of a project to set up a system for extracting text from
    ```
    __Or__
 ```
-   py -m streamlit run .\app.py'
+   py -m streamlit run .\app.py
    ```
-## On your default browser
+## On your default browser  
 A new page will be created and you'll see a similar interface in the images below.
