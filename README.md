@@ -23,4 +23,4 @@ This repository is part of a project to set up a system for extracting text from
    ```
 ## On your default browser  
 A new page will be created and you'll see a similar interface in the images below.  
-![Cover](https://github.com/Aboubacar1311/Ohara/img/12.png)
+![Cover](https://github.com/Aboubacar1311/Ohara/blob/981ec3294a9442077b49f1af920495f2df24bd50/img/12.png) 
